@@ -1,0 +1,7 @@
+environment: test
+server:
+  port: 7070
+myCustomVarTree:
+  devName: Chiara Galatro
+
+
